@@ -1,5 +1,7 @@
-# scraping-r
-Materi Web Scraping menggunakan R
+# Web Scraping Menggunakan R
+Materi Web Scraping menggunakan R oleh Muhammad Apriandito
 
-## __Referensi__
-* [Rvest](https://rvest.tidyverse.org/)
+---
+
+__Referensi Tambahan:__
+* [Dokumentasi Rvest](https://rvest.tidyverse.org/)
